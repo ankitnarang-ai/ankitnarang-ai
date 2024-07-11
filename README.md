@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitnarang-ai&label=Profile%20views&color=0e75b6&style=flat" alt="ankitnarang-ai" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently **MERN STACK DEVELOPER**
 
 - 👨‍💻 All of my projects are available at [https://ankitnarang-ai.github.io/AnkitPortfolio/](https://ankitnarang-ai.github.io/AnkitPortfolio/)
 

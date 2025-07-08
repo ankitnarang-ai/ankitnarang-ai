@@ -18,7 +18,7 @@
 - 🔗 All my work lives here: [My Portfolio](https://ankitnarang-ai.github.io/AnkitPortfolio/)  
 - 📫 Let’s connect: **ankitnarangwork@gmail.com**  
 - 🎥 Also a **YouTuber** @ [ShortNotes4U](https://www.youtube.com/@shortnotes4u)  
-- 📄 [My Resume]([https://drive.google.com/file/d/1GOrher6-3MIzMjmD4xpCkAAjHn-KWN0P/view](https://drive.google.com/file/d/1L8zu89ffNXGQx31zUDZG1q2iQL4lLTky/view?usp=drive_link))
+- 📄 [My Resume](https://drive.google.com/file/d/1L8zu89ffNXGQx31zUDZG1q2iQL4lLTky/view)
 
 ---
 
@@ -30,12 +30,6 @@
   </a>
   <a href="https://www.youtube.com/@shortnotes4u" target="blank">
     <img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.leetcode.com/ankit_0710" target="blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/ankit_narang" target="blank">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=google" alt="GeeksforGeeks" />
   </a>
 </p>
 
@@ -68,4 +62,3 @@
 ---
 
 > *“Simplicity is the soul of efficiency.”* — Austin Freeman
-

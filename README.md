@@ -1,28 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ankit Narang</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Full Stack & AI-focused Software Developer from India, building scalable and intelligent solutions.</h3>
 
 <img align="right" alt='coding img' width ="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitnarang-ai&label=Profile%20views&color=0e75b6&style=flat" alt="ankitnarang-ai" /> </p>
 
-- 🌱 I’m currently **MERN STACK DEVELOPER**
+- 🌱 I'm currently **building and optimizing full-stack applications with the MERN stack**, deeply exploring **AI-driven solutions and GenAI architectures**.
 
-- 👨‍💻 All of my projects are available at [https://ankitnarang-ai.github.io/AnkitPortfolio/](https://ankitnarang-ai.github.io/AnkitPortfolio/)
+- 👨‍💻 As a solo developer, I thrive on driving projects independently from concept to deployment. All of my projects are available at [https://ankitnarang-ai.github.io/AnkitPortfolio/](https://ankitnarang-ai.github.io/AnkitPortfolio/)
 
-- 💬 Ask me about **Data Structure and Algorithm, Frontend Development**
+- 💬 Ask me about **Data Structures & Algorithms, Frontend Development, or architecting AI-powered solutions.**
 
 - 📫 How to reach me **ankitnarangwork@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GOrher6-3MIzMjmD4xpCkAAjHn-KWN0P/view](https://drive.google.com/file/d/1GOrher6-3MIzMjmD4xpCkAAjHn-KWN0P/view)
 
-- ⚡ Fun fact **I am a Youtuber also**
+- ⚡ Fun fact: I'm also a **YouTuber** sharing insights on coding and problem-solving!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankitnarang1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitnarang1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shortnotes4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shortnotes4u" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@shortnotes4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shortnotes4u" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ankit_0710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankit_0710" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ankit_narang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ankit_narang" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ankit_narang" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/geeksforgeeks/geeksforgeeks-original.svg" alt="ankit_narang" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitnarang-ai&show_icons=true&locale=en&layout=compact" alt="ankitnarang-ai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitnarang-ai&show_icons=true&locale=en" alt="ankitnarang-ai" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitnarang-ai&show_icons=true&locale=en" alt="ankitnarang-ai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitnarang-ai&" alt="ankitnarang-ai" /></p>
